@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b410252a-0f5c-4ceb-b1a7-9515e8637d75",
+    "ingredientId": "cdf4b4bd-b5ce-4a16-9dcf-b0b3c2357eaa",
+    "name": "Bayam",
+    "nameEn": "spinach",
+    "category": {
+      "slug": "vegetables",
+      "nameId": "Sayuran",
+      "nameEn": "Vegetables"
+    },
+    "quantity": 6,
+    "unit": "ikat",
+    "expiresAt": "2020-01-01",
+    "expiryStatus": "EXPIRED",
+    "notes": "kulkas"
+  },
+  {
+    "id": "a1db1b68-5fe2-4945-b5e1-ac15bfa253bb",
+    "ingredientId": "32719445-1999-435d-95ed-d94ff5a22621",
+    "name": "Tomat",
+    "nameEn": "tomato",
+    "category": {
+      "slug": "vegetables",
+      "nameId": "Sayuran",
+      "nameEn": "Vegetables"
+    },
+    "quantity": null,
+    "unit": "buah",
+    "expiresAt": null,
+    "expiryStatus": "NONE",
+    "notes": null
+  },
+  {
+    "id": "18e86154-4506-49d6-bd81-73fe7d327907",
+    "ingredientId": "6ba448aa-7d3d-44b0-9c81-34bdd0162f44",
+    "name": "Telur",
+    "nameEn": "egg",
+    "category": {
+      "slug": "dairy-eggs",
+      "nameId": "Susu & Telur",
+      "nameEn": "Dairy & Eggs"
+    },
+    "quantity": null,
+    "unit": "butir",
+    "expiresAt": null,
+    "expiryStatus": "NONE",
+    "notes": null
+  }
+]

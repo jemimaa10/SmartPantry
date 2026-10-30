@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5496e9c3-de19-4026-9958-6e56bc919979",
+    "collectionId": "cb0bebe1-8eb7-424d-9db5-0412d733e5e1",
+    "collectionName": "Malam",
+    "recipe": {
+      "key": "mealdb-52772",
+      "source": "MEALDB",
+      "title": "Teriyaki Chicken Casserole",
+      "imageUrl": "https://img.example/meal.jpg",
+      "cookingMinutes": null,
+      "servings": null,
+      "difficulty": null,
+      "nutrition": null,
+      "isAiGenerated": false,
+      "matchPercent": 0,
+      "available": [],
+      "missing": [
+        "chicken",
+        "soy sauce"
+      ],
+      "optionalMissing": [],
+      "usesExpiring": []
+    }
+  }
+]

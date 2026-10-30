@@ -1,0 +1,47 @@
+{
+  "recipes": [
+    {
+      "key": "ai-32686139-de62-40c8-a585-ff40f2d28202",
+      "source": "AI",
+      "externalId": "32686139-de62-40c8-a585-ff40f2d28202",
+      "title": "Telur Ceplok",
+      "description": "Sederhana.",
+      "imageUrl": null,
+      "sourceUrl": null,
+      "cookingMinutes": 5,
+      "servings": 1,
+      "difficulty": "Easy",
+      "cuisine": null,
+      "category": null,
+      "nutrition": null,
+      "nutritionIsEstimate": false,
+      "ingredients": [
+        {
+          "name": "egg",
+          "displayName": "Telur",
+          "original": null,
+          "quantity": 1,
+          "unit": "butir",
+          "required": true
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Goreng selama 3 menit.",
+          "timerSeconds": 180
+        }
+      ],
+      "isAiGenerated": true,
+      "match": {
+        "matchPercent": 100,
+        "available": [
+          "Telur"
+        ],
+        "missing": [],
+        "optionalMissing": [],
+        "usesExpiring": []
+      }
+    }
+  ]
+}

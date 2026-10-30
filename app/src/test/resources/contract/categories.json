@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "slug": "dairy-eggs",
+    "nameId": "Susu & Telur",
+    "nameEn": "Dairy & Eggs",
+    "sortOrder": 0,
+    "createdAt": "2026-10-30T05:21:04.360Z",
+    "updatedAt": "2026-10-30T05:21:04.360Z"
+  },
+  {
+    "id": 2,
+    "slug": "meat-poultry",
+    "nameId": "Daging & Unggas",
+    "nameEn": "Meat & Poultry",
+    "sortOrder": 1,
+    "createdAt": "2026-10-30T05:21:04.367Z",
+    "updatedAt": "2026-10-30T05:21:04.367Z"
+  },
+  {
+    "id": 3,
+    "slug": "seafood",
+    "nameId": "Ikan & Seafood",
+    "nameEn": "Seafood",
+    "sortOrder": 2,
+    "createdAt": "2026-10-30T05:21:04.372Z",
+    "updatedAt": "2026-10-30T05:21:04.372Z"
+  },
+  {
+    "id": 4,
+    "slug": "vegetables",
+    "nameId": "Sayuran",
+    "nameEn": "Vegetables",
+    "sortOrder": 3,
+    "createdAt": "2026-10-30T05:21:04.377Z",
+    "updatedAt": "2026-10-30T05:21:04.377Z"
+  },
+  {
+    "id": 5,
+    "slug": "fruits",
+    "nameId": "Buah",
+    "nameEn": "Fruits",
+    "sortOrder": 4,
+    "createdAt": "2026-10-30T05:21:04.381Z",
+    "updatedAt": "2026-10-30T05:21:04.381Z"
+  },
+  {
+    "id": 6,
+    "slug": "spices",
+    "nameId": "Bumbu & Rempah",
+    "nameEn": "Spices & Herbs",
+    "sortOrder": 5,
+    "createdAt": "2026-10-30T05:21:04.385Z",
+    "updatedAt": "2026-10-30T05:21:04.385Z"
+  },
+  {
+    "id": 7,
+    "slug": "grains",
+    "nameId": "Beras & Biji-bijian",
+    "nameEn": "Grains & Pasta",
+    "sortOrder": 6,
+    "createdAt": "2026-10-30T05:21:04.390Z",
+    "updatedAt": "2026-10-30T05:21:04.390Z"
+  },
+  {
+    "id": 8,
+    "slug": "plant-protein",
+    "nameId": "Tahu, Tempe & Kacang",
+    "nameEn": "Plant Protein",
+    "sortOrder": 7,
+    "createdAt": "2026-10-30T05:21:04.393Z",
+    "updatedAt": "2026-10-30T05:21:04.393Z"
+  },
+  {
+    "id": 9,
+    "slug": "sauces",
+    "nameId": "Saus & Minyak",
+    "nameEn": "Sauces & Oils",
+    "sortOrder": 8,
+    "createdAt": "2026-10-30T05:21:04.396Z",
+    "updatedAt": "2026-10-30T05:21:04.396Z"
+  },
+  {
+    "id": 10,
+    "slug": "other",
+    "nameId": "Lainnya",
+    "nameEn": "Other",
+    "sortOrder": 9,
+    "createdAt": "2026-10-30T05:21:04.399Z",
+    "updatedAt": "2026-10-30T05:21:04.399Z"
+  }
+]

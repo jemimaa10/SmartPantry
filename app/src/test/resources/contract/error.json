@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": "UNAUTHORIZED",
+    "message": "Email atau kata sandi salah."
+  }
+}

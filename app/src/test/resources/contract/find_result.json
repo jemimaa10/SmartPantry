@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "key": "spoonacular-1001",
+      "source": "SPOONACULAR",
+      "title": "Telur Tomat",
+      "imageUrl": "https://img.example/1.jpg",
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": null,
+      "nutrition": {
+        "calories": 210,
+        "protein": null,
+        "carbohydrates": null,
+        "fat": null
+      },
+      "isAiGenerated": false,
+      "matchPercent": 50,
+      "available": [
+        "egg"
+      ],
+      "missing": [
+        "rice"
+      ],
+      "optionalMissing": [
+        "parsley"
+      ],
+      "usesExpiring": []
+    },
+    {
+      "key": "mealdb-52772",
+      "source": "MEALDB",
+      "title": "Teriyaki Chicken",
+      "imageUrl": "https://img.example/m.jpg",
+      "cookingMinutes": null,
+      "servings": null,
+      "difficulty": null,
+      "nutrition": null,
+      "isAiGenerated": false,
+      "matchPercent": 0,
+      "available": [],
+      "missing": [
+        "chicken"
+      ],
+      "optionalMissing": [],
+      "usesExpiring": []
+    }
+  ],
+  "sources": {
+    "spoonacular": "ok",
+    "themealdb": "ok"
+  },
+  "suggestAi": false
+}

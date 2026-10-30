@@ -1,0 +1,15 @@
+[
+  {
+    "id": "897abea4-d87d-44a4-893a-9725c0c8b24f",
+    "ingredients": [
+      {
+        "name": "Egg",
+        "unit": "pieces",
+        "name_id": "Telur",
+        "quantity": 2,
+        "confidence": 0.98
+      }
+    ],
+    "createdAt": "2026-10-30T05:50:49.316Z"
+  }
+]

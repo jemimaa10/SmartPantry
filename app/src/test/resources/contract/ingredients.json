@@ -1,0 +1,95 @@
+[
+  {
+    "id": "a52ecace-5e47-410e-8339-d49a52668d3e",
+    "nameEn": "onion",
+    "nameId": "Bawang Bombay",
+    "aliases": [
+      "bawang bombai"
+    ],
+    "searchText": "onion bawang bombay bawang bombai",
+    "categoryId": 4,
+    "defaultUnit": "buah",
+    "createdById": null,
+    "scope": "global",
+    "createdAt": "2026-10-30T05:21:04.491Z",
+    "updatedAt": "2026-10-30T05:21:04.491Z",
+    "category": {
+      "id": 4,
+      "slug": "vegetables",
+      "nameId": "Sayuran",
+      "nameEn": "Vegetables",
+      "sortOrder": 3,
+      "createdAt": "2026-10-30T05:21:04.377Z",
+      "updatedAt": "2026-10-30T05:21:04.377Z"
+    }
+  },
+  {
+    "id": "1bed6c0a-ed05-4450-b162-bf003041d5b1",
+    "nameEn": "shallot",
+    "nameId": "Bawang Merah",
+    "aliases": [],
+    "searchText": "shallot bawang merah",
+    "categoryId": 4,
+    "defaultUnit": "siung",
+    "createdById": null,
+    "scope": "global",
+    "createdAt": "2026-10-30T05:21:04.484Z",
+    "updatedAt": "2026-10-30T05:21:04.484Z",
+    "category": {
+      "id": 4,
+      "slug": "vegetables",
+      "nameId": "Sayuran",
+      "nameEn": "Vegetables",
+      "sortOrder": 3,
+      "createdAt": "2026-10-30T05:21:04.377Z",
+      "updatedAt": "2026-10-30T05:21:04.377Z"
+    }
+  },
+  {
+    "id": "ea28b1a2-7e79-4b2e-a1f1-9fa4d7188f3b",
+    "nameEn": "garlic",
+    "nameId": "Bawang Putih",
+    "aliases": [],
+    "searchText": "garlic bawang putih",
+    "categoryId": 4,
+    "defaultUnit": "siung",
+    "createdById": null,
+    "scope": "global",
+    "createdAt": "2026-10-30T05:21:04.488Z",
+    "updatedAt": "2026-10-30T05:21:04.488Z",
+    "category": {
+      "id": 4,
+      "slug": "vegetables",
+      "nameId": "Sayuran",
+      "nameEn": "Vegetables",
+      "sortOrder": 3,
+      "createdAt": "2026-10-30T05:21:04.377Z",
+      "updatedAt": "2026-10-30T05:21:04.377Z"
+    }
+  },
+  {
+    "id": "f32306ac-a305-4b51-876c-012dc4e13588",
+    "nameEn": "scallion",
+    "nameId": "Daun Bawang",
+    "aliases": [
+      "green onion",
+      "spring onion"
+    ],
+    "searchText": "scallion daun bawang green onion spring onion",
+    "categoryId": 4,
+    "defaultUnit": "batang",
+    "createdById": null,
+    "scope": "global",
+    "createdAt": "2026-10-30T05:21:04.495Z",
+    "updatedAt": "2026-10-30T05:21:04.495Z",
+    "category": {
+      "id": 4,
+      "slug": "vegetables",
+      "nameId": "Sayuran",
+      "nameEn": "Vegetables",
+      "sortOrder": 3,
+      "createdAt": "2026-10-30T05:21:04.377Z",
+      "updatedAt": "2026-10-30T05:21:04.377Z"
+    }
+  }
+]

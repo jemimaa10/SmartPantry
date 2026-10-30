@@ -1,0 +1,34 @@
+[
+  {
+    "id": "18e86154-4506-49d6-bd81-73fe7d327907",
+    "ingredientId": "6ba448aa-7d3d-44b0-9c81-34bdd0162f44",
+    "name": "Telur",
+    "nameEn": "egg",
+    "category": {
+      "slug": "dairy-eggs",
+      "nameId": "Susu & Telur",
+      "nameEn": "Dairy & Eggs"
+    },
+    "quantity": null,
+    "unit": "butir",
+    "expiresAt": null,
+    "expiryStatus": "NONE",
+    "notes": null
+  },
+  {
+    "id": "a1db1b68-5fe2-4945-b5e1-ac15bfa253bb",
+    "ingredientId": "32719445-1999-435d-95ed-d94ff5a22621",
+    "name": "Tomat",
+    "nameEn": "tomato",
+    "category": {
+      "slug": "vegetables",
+      "nameId": "Sayuran",
+      "nameEn": "Vegetables"
+    },
+    "quantity": null,
+    "unit": "buah",
+    "expiresAt": null,
+    "expiryStatus": "NONE",
+    "notes": null
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "key": "spoonacular-1001",
+  "source": "SPOONACULAR",
+  "externalId": "1001",
+  "title": "Telur Tomat",
+  "description": null,
+  "imageUrl": "https://img.example/1.jpg",
+  "sourceUrl": null,
+  "cookingMinutes": 15,
+  "servings": 2,
+  "difficulty": null,
+  "cuisine": null,
+  "category": null,
+  "nutrition": {
+    "fat": null,
+    "protein": null,
+    "calories": 210,
+    "carbohydrates": null
+  },
+  "nutritionIsEstimate": false,
+  "ingredients": [
+    {
+      "name": "egg",
+      "displayName": null,
+      "original": "2 eggs",
+      "quantity": 2,
+      "unit": null,
+      "required": true,
+      "available": true
+    },
+    {
+      "name": "rice",
+      "displayName": null,
+      "original": "1 cup rice",
+      "quantity": 1,
+      "unit": "cup",
+      "required": true,
+      "available": false
+    },
+    {
+      "name": "parsley",
+      "displayName": null,
+      "original": "parsley, for garnish",
+      "quantity": 1,
+      "unit": "tbsp",
+      "required": false,
+      "available": false
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "Cook for 5 minutes.",
+      "timerSeconds": 300
+    }
+  ],
+  "isAiGenerated": false,
+  "favoriteId": null,
+  "match": {
+    "matchPercent": 50,
+    "available": [
+      "egg"
+    ],
+    "missing": [
+      "rice"
+    ],
+    "optionalMissing": [
+      "parsley"
+    ],
+    "usesExpiring": []
+  }
+}

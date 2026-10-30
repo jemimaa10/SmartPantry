@@ -1,0 +1,22 @@
+{
+  "expiringSoon": [],
+  "expiringToday": [],
+  "expired": [
+    {
+      "id": "b410252a-0f5c-4ceb-b1a7-9515e8637d75",
+      "ingredientId": "cdf4b4bd-b5ce-4a16-9dcf-b0b3c2357eaa",
+      "name": "Bayam",
+      "nameEn": "spinach",
+      "category": {
+        "slug": "vegetables",
+        "nameId": "Sayuran",
+        "nameEn": "Vegetables"
+      },
+      "quantity": 6,
+      "unit": "ikat",
+      "expiresAt": "2020-01-01",
+      "expiryStatus": "EXPIRED",
+      "notes": "kulkas"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "861a20c8-46b8-4558-82d6-9ecd799c0b4d",
+  "email": "contract-14b96313-b8cc-43dd-aaa8-ed53016073a1@test.dev",
+  "hasPassword": true,
+  "displayName": "Kontrak",
+  "avatarUrl": null,
+  "language": "id",
+  "dietaryPreferences": [],
+  "allergies": [],
+  "dislikedIngredients": [],
+  "notifications": {
+    "expiryEnabled": true,
+    "expiryDaysBefore": 3,
+    "mealPlanEnabled": false
+  }
+}

@@ -1,0 +1,260 @@
+<resources>
+    <string name="app_name">SmartPantry AI</string>
+    <string name="tagline">Masak dari bahan yang sudah ada di rumah</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_pantry">Pantry Saya</string>
+    <string name="nav_discover">Jelajahi</string>
+    <string name="nav_planner">Rencana</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Common -->
+    <string name="back">Kembali</string>
+    <string name="retry">Coba lagi</string>
+    <string name="cancel">Batal</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="remove">Hapus</string>
+    <string name="add">Tambah</string>
+    <string name="edit">Ubah</string>
+    <string name="ok">OK</string>
+    <string name="done">Selesai</string>
+    <string name="all">Semua</string>
+    <string name="clear">Bersihkan</string>
+    <string name="more">Lainnya</string>
+    <string name="selected">Dipilih</string>
+    <string name="saving">Menyimpan…</string>
+    <string name="see_all">Lihat semua</string>
+    <string name="add_item_hint">Ketik lalu tekan Tambah</string>
+    <string name="name">Nama</string>
+    <string name="quantity">Jumlah</string>
+    <string name="unit">Satuan</string>
+    <string name="category">Kategori</string>
+    <string name="notes">Catatan</string>
+
+    <!-- Auth -->
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+    <string name="toggle_password">Tampilkan atau sembunyikan kata sandi</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="logout_confirm">Yakin ingin keluar dari akun ini?</string>
+    <string name="no_account">Belum punya akun? Daftar</string>
+    <string name="forgot_password">Lupa kata sandi?</string>
+    <string name="forgot_title">Atur ulang kata sandi</string>
+    <string name="forgot_body">Masukkan email akunmu. Kami akan mengirim kode untuk mengatur ulang kata sandi.</string>
+    <string name="send_reset">Kirim kode</string>
+    <string name="reset_body">Tempel kode dari email dan buat kata sandi baru.</string>
+    <string name="reset_code">Kode reset</string>
+    <string name="new_password">Kata sandi baru</string>
+    <string name="save_password">Simpan kata sandi</string>
+    <string name="password_hint">Minimal 8 karakter.</string>
+    <string name="continue_google">Lanjut dengan Google</string>
+    <string name="register_google">Daftar dengan Google</string>
+    <string name="google_not_configured">Masuk dengan Google belum dikonfigurasi.</string>
+    <string name="google_failed">Gagal masuk dengan Google. Coba lagi.</string>
+
+    <!-- Home -->
+    <string name="home_hello">Halo,</string>
+    <string name="home_search_hint">Cari resep atau bahan…</string>
+    <string name="home_scan_title">Ada bahan apa hari ini?</string>
+    <string name="home_scan_body">Foto bahanmu, biar AI yang mengenalinya.</string>
+    <string name="scan_ingredients">Scan Bahan</string>
+    <string name="manual">Manual</string>
+    <string name="home_pantry_count">%1$d bahan di pantry</string>
+    <string name="home_pantry_empty">Pantry masih kosong</string>
+    <string name="home_use_soon">Segera gunakan</string>
+    <string name="home_recommended">Rekomendasi untukmu</string>
+    <string name="home_recent">Baru dilihat</string>
+    <string name="home_no_recommendations">Tambahkan bahan ke pantry untuk mendapat rekomendasi.</string>
+    <string name="loading_recipes">Mencari resep…</string>
+    <string name="cat_chicken">Ayam</string>
+    <string name="cat_seafood">Seafood</string>
+    <string name="cat_vegetarian">Vegetarian</string>
+    <string name="cat_breakfast">Sarapan</string>
+    <string name="cat_dessert">Pencuci mulut</string>
+    <string name="cat_soup">Sup</string>
+
+    <!-- Pantry -->
+    <string name="pantry_hint">Tekan lama untuk memilih bahan, lalu cari resep.</string>
+    <string name="search_ingredients">Cari bahan</string>
+    <string name="add_ingredient">Tambah bahan</string>
+    <string name="edit_ingredient">Ubah bahan</string>
+    <string name="find_recipes_with">Cari resep (%1$d)</string>
+    <string name="pantry_empty_title">Belum ada bahan</string>
+    <string name="pantry_empty_body">Scan atau tambahkan bahan untuk mulai.</string>
+    <string name="delete_ingredient_title">Hapus bahan?</string>
+    <string name="delete_ingredient_body">%1$s akan dihapus dari pantry.</string>
+    <string name="ingredient_name">Nama bahan</string>
+    <string name="ingredient_name_hint">Contoh: telur, bawang merah</string>
+    <string name="expiry_date">Tanggal kedaluwarsa</string>
+    <string name="expiry_none">Tidak ada</string>
+    <string name="expired">Kedaluwarsa</string>
+    <string name="expires_today">Habis hari ini</string>
+    <string name="expires_soon">Segera habis</string>
+
+    <!-- Scan -->
+    <string name="scan_analyzing">Menganalisis gambar…</string>
+    <string name="scan_unreadable">Gambar tidak dapat dibaca. Coba gambar lain.</string>
+    <string name="scan_tip">Tata bahan agar terlihat jelas, dengan cahaya yang cukup.</string>
+    <string name="camera_permission">Izinkan kamera untuk memotret bahan, atau pilih dari galeri.</string>
+    <string name="allow_camera">Izinkan kamera</string>
+    <string name="from_gallery">Pilih dari galeri</string>
+    <string name="review_title">Periksa bahan</string>
+    <string name="review_body">Perbaiki nama yang salah, hapus yang tidak perlu, atau tambahkan yang terlewat. Belum ada yang disimpan.</string>
+    <string name="add_missing_ingredient">Tambah bahan yang terlewat</string>
+    <string name="scan_again">Scan lagi</string>
+    <string name="save_to_pantry">Simpan ke pantry</string>
+    <string name="saved_title">Tersimpan di pantry</string>
+    <string name="saved_body">Mau lihat resep yang bisa dibuat dari bahan ini?</string>
+    <string name="find_recipes">Cari resep</string>
+
+    <!-- Discover -->
+    <string name="discover_hint">Cari resep, mis. ayam goreng</string>
+    <string name="ai_generator">Generator Resep AI</string>
+    <string name="ai_generator_body">Buat resep dari bahan apa pun.</string>
+    <string name="try_it">Coba</string>
+    <string name="use_ingredients">Gunakan bahan</string>
+    <string name="availability">Ketersediaan bahan</string>
+    <string name="mode_any">Semua resep</string>
+    <string name="mode_few">Kurang sedikit bahan</string>
+    <string name="mode_available">Hanya bahan yang ada</string>
+    <string name="min_match">Kecocokan minimal: %1$d%%</string>
+    <string name="partial_results">Sebagian sumber resep sedang bermasalah, jadi hasil mungkin terbatas.</string>
+    <string name="no_recipes_title">Resep tidak ditemukan</string>
+    <string name="no_recipes_body">Ubah filter atau minta AI membuatkan resep.</string>
+    <string name="sources_down_body">Sumber resep sedang tidak tersedia. Kamu bisa membuat resep dengan AI.</string>
+    <string name="generate_with_ai">Buat dengan AI</string>
+    <string name="ai_notice">Resep dibuat AI berdasarkan bahanmu, preferensi, dan alergi di profil. Periksa kembali sebelum memasak.</string>
+    <string name="extra_ingredients">Bahan tambahan</string>
+    <string name="extra_ingredients_hint">Pisahkan dengan koma</string>
+    <string name="max_minutes">Maks. menit</string>
+    <string name="ai_notes">Permintaan khusus (opsional)</string>
+    <string name="generate_recipes">Buat resep</string>
+    <string name="generating">AI sedang menyusun resep…</string>
+    <string name="gen_cat_breakfast">Sarapan</string>
+    <string name="gen_cat_main">Makan utama</string>
+    <string name="gen_cat_snack">Camilan</string>
+    <string name="gen_cat_soup">Sup</string>
+    <string name="gen_cat_dessert">Pencuci mulut</string>
+
+    <!-- Recipe -->
+    <string name="match_percent">Cocok %1$d%%</string>
+    <string name="ai_generated">Dibuat AI</string>
+    <string name="ai_disclaimer">Resep ini dibuat AI, bukan dari database resep terverifikasi.</string>
+    <string name="all_ingredients_available">Semua bahan tersedia</string>
+    <string name="missing_count">Kurang %1$d bahan</string>
+    <string name="missing_list">Kurang: %1$s</string>
+    <string name="minutes_short">%1$d mnt</string>
+    <string name="servings_short">%1$d porsi</string>
+    <string name="difficulty_easy">Mudah</string>
+    <string name="difficulty_medium">Sedang</string>
+    <string name="difficulty_hard">Sulit</string>
+    <string name="uses_expiring">Memakai bahan yang segera habis</string>
+    <string name="plan_meal">Tambah ke rencana</string>
+    <string name="find_substitutes">Cari pengganti bahan</string>
+    <string name="ingredients">Bahan</string>
+    <string name="servings">Porsi</string>
+    <string name="decrease_servings">Kurangi porsi</string>
+    <string name="increase_servings">Tambah porsi</string>
+    <string name="add_missing_to_shopping">Tambah yang kurang ke daftar belanja</string>
+    <string name="instructions">Cara memasak</string>
+    <string name="no_instructions">Instruksi tidak tersedia dari sumber resep ini.</string>
+    <string name="nutrition">Nutrisi</string>
+    <string name="nutrition_unavailable">Informasi nutrisi tidak tersedia.</string>
+    <string name="nutrition_estimate">Perkiraan, bukan nilai terverifikasi.</string>
+    <string name="nutrition_per_serving">Per porsi.</string>
+    <string name="calories">Kalori</string>
+    <string name="protein">Protein</string>
+    <string name="carbohydrates">Karbohidrat</string>
+    <string name="fat">Lemak</string>
+    <string name="not_available_short">Tidak ada data</string>
+    <string name="start_cooking">Mulai memasak</string>
+    <string name="save_favorite">Simpan ke favorit</string>
+    <string name="remove_favorite">Hapus dari favorit</string>
+    <string name="favorite_added">Disimpan ke favorit</string>
+    <string name="favorite_removed">Dihapus dari favorit</string>
+    <string name="added_to_shopping">Ditambahkan ke daftar belanja</string>
+    <string name="added_to_plan">Ditambahkan ke rencana makan</string>
+    <string name="available">Tersedia</string>
+    <string name="not_available">Tidak tersedia</string>
+    <string name="optional">Opsional</string>
+    <string name="missing">Kurang</string>
+    <string name="suit_good">Cocok</string>
+    <string name="suit_ok">Bisa dipakai, hasil berbeda</string>
+    <string name="suit_bad">Tidak disarankan</string>
+    <string name="add_to_plan">Tambahkan</string>
+    <string name="breakfast">Sarapan</string>
+    <string name="lunch">Siang</string>
+    <string name="dinner">Malam</string>
+
+    <!-- Cooking -->
+    <string name="step_of">Langkah %1$d dari %2$d</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="next">Berikutnya</string>
+    <string name="finish">Selesai</string>
+    <string name="timer_done">Waktu habis</string>
+    <string name="start_timer">Mulai timer</string>
+    <string name="pause_timer">Jeda timer</string>
+    <string name="reset_timer">Ulangi timer</string>
+
+    <!-- Favorites -->
+    <string name="favorites">Resep Favorit</string>
+    <string name="search_favorites">Cari favorit</string>
+    <string name="new_collection">Koleksi baru</string>
+    <string name="favorites_empty_title">Belum ada favorit</string>
+    <string name="favorites_empty_body">Tekan ikon hati di halaman resep untuk menyimpannya.</string>
+    <string name="move_to">Pindahkan ke %1$s</string>
+    <string name="remove_from_collection">Keluarkan dari koleksi</string>
+
+    <!-- Shopping -->
+    <string name="shopping_list">Daftar Belanja</string>
+    <string name="new_list">Daftar baru</string>
+    <string name="delete_list">Hapus daftar</string>
+    <string name="delete_list_body">Daftar %1$s dan semua isinya akan dihapus.</string>
+    <string name="shopping_empty_title">Daftar masih kosong</string>
+    <string name="shopping_empty_body">Tambahkan item, atau kirim bahan yang kurang dari halaman resep.</string>
+    <string name="purchased">Sudah dibeli</string>
+    <string name="add_shopping_item">Tambah item</string>
+    <string name="edit_item">Ubah item</string>
+
+    <!-- Planner -->
+    <string name="previous_week">Minggu sebelumnya</string>
+    <string name="next_week">Minggu berikutnya</string>
+    <string name="add_meal">Tambah</string>
+    <string name="replace_meal">Ganti resep</string>
+    <string name="picker_empty">Belum ada resep. Coba cari di atas.</string>
+
+    <!-- Profile -->
+    <string name="preferences">Preferensi &amp; notifikasi</string>
+    <string name="preferences_saved">Preferensi disimpan</string>
+    <string name="edit_name">Ubah nama</string>
+    <string name="dietary_preferences">Preferensi makanan</string>
+    <string name="allergies">Alergi</string>
+    <string name="allergy_notice">AI menghindari alergen ini, tetapi selalu periksa kembali bahan resep.</string>
+    <string name="disliked_ingredients">Bahan yang tidak disukai</string>
+    <string name="notifications">Notifikasi</string>
+    <string name="notify_expiry">Ingatkan bahan yang hampir kedaluwarsa</string>
+    <string name="notify_days_before">Ingatkan %1$d hari sebelumnya</string>
+    <string name="notify_meal_plan">Ingatkan rencana makan harian</string>
+
+    <!-- Expiry and history -->
+    <string name="expiry_tracker">Pelacak Kedaluwarsa</string>
+    <string name="expiry_empty_title">Semua aman</string>
+    <string name="expiry_empty_body">Tidak ada bahan yang hampir kedaluwarsa.</string>
+    <string name="recipes_for_expiring">Cari resep untuk bahan ini</string>
+    <string name="expires_today_title">Habis hari ini</string>
+    <string name="expires_soon_title">Segera habis</string>
+    <string name="expired_title">Sudah kedaluwarsa</string>
+    <string name="scan_history">Riwayat Scan</string>
+    <string name="history_empty_title">Belum ada riwayat</string>
+    <string name="history_empty_body">Hasil scan bahan akan muncul di sini.</string>
+    <string name="history_no_items">Tidak ada bahan terdeteksi</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel">Pengingat pantry</string>
+    <string name="notif_expiry_title">%1$d bahan hampir kedaluwarsa</string>
+    <string name="notif_meal_title">Rencana makan hari ini</string>
+</resources>

@@ -1,0 +1,12 @@
+{
+  "id": "6dc70ca5-c3be-40f7-8e2a-d4406ffe6044",
+  "date": "2030-07-03",
+  "mealType": "DINNER",
+  "servings": null,
+  "recipe": {
+    "key": "mealdb-52772",
+    "title": "Teriyaki Chicken Casserole",
+    "imageUrl": "https://img.example/meal.jpg",
+    "cookingMinutes": null
+  }
+}

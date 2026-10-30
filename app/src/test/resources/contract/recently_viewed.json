@@ -1,0 +1,29 @@
+[
+  {
+    "key": "spoonacular-1001",
+    "source": "SPOONACULAR",
+    "title": "Telur Tomat",
+    "imageUrl": "https://img.example/1.jpg",
+    "cookingMinutes": 15,
+    "servings": 2,
+    "difficulty": null,
+    "nutrition": {
+      "fat": null,
+      "protein": null,
+      "calories": 210,
+      "carbohydrates": null
+    },
+    "isAiGenerated": false,
+    "matchPercent": 50,
+    "available": [
+      "egg"
+    ],
+    "missing": [
+      "rice"
+    ],
+    "optionalMissing": [
+      "parsley"
+    ],
+    "usesExpiring": []
+  }
+]

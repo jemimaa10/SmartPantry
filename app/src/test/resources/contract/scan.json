@@ -1,0 +1,13 @@
+{
+  "imageQuality": "good",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "name_id": "Telur",
+      "confidence": 0.98,
+      "quantity": 2,
+      "unit": "pieces"
+    }
+  ],
+  "message": null
+}

@@ -1,0 +1,12 @@
+{
+  "substitutions": [
+    {
+      "missing_ingredient": "Mentega",
+      "substitute": null,
+      "how_to_substitute": "",
+      "taste_texture_impact": "",
+      "suitability": "not_recommended",
+      "safety_note": "Catatan"
+    }
+  ]
+}

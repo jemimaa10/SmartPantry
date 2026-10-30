@@ -1,0 +1,12 @@
+{
+  "id": "9b3499d1-7d21-48b6-a4ec-f67964bad70f",
+  "listId": "0f582988-a25f-4f31-9583-67ece1e080c7",
+  "name": "Beras",
+  "quantity": null,
+  "unit": "kg",
+  "category": "Beras & Biji-bijian",
+  "isPurchased": true,
+  "recipeKey": null,
+  "createdAt": "2026-10-30T05:50:49.438Z",
+  "updatedAt": "2026-10-30T05:50:49.484Z"
+}
